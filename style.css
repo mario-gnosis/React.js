@@ -1,0 +1,23 @@
+/* Styles go here */
+
+.corButton{
+  background: rgba(251, 202, 43, 1);
+}
+.show{
+  background: #7CB9E8;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+.buy{
+  background: #00541A;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+.delet{
+  background: #f12d2d;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+.prodPrice{
+  margin-left: 5px;
+}
